@@ -21,11 +21,6 @@ Detect ArUco Marker and visualize its pose using IntelRealsense or Azure Kinect 
 - Azure Kinect
     
     [**Azure Kinect ROS driver**](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md#Installation)
-    
-      
-[opencv-contrib-python] cv2 does not have an attribute "aruco"
-        
-[Python 3 cv2 Has No Attribute Aruco](https://winkdoubleguns.com/2021/02/13/python-3-cv2-has-no-attribute-aruco/)
         
 [cv_bridge](https://wiki.ros.org/cv_bridge)
         
